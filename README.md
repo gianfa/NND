@@ -1,12 +1,18 @@
 # NND
 Neural Networks Designer
 
-<img src='https://img.shields.io/badge/made%20for-DNN%20hackers-blue'>
-  
+<img src='https://img.shields.io/badge/made%20for-DNN%20hackers-blue'><br>
+
+
+
+
+<img src='./_imgs/model1.png'>  
 
 ### Repo content
 * [dnn_designer](./dnn_designer/), package for designing neural networks.
 * [nbs](./nbs/), examples notebooks directory.
+
+
 
 ### Status
 Beginnning. There is a PoC in [first_test.ipynb](./dnn_designer/first_test.ipynb), based on a couple of functions written in [funx.py](./dnn_designer/funx.py).  
